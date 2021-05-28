@@ -11,5 +11,5 @@ def multiply(x,y):
 def divide(x,y):
     pass
     
-def square(x):
+def square(x):  #added square
     return x*x
